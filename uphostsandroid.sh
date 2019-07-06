@@ -15,7 +15,6 @@
  # OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
  #
 
-#!"$PREFIX"/bin/sh
 
 #this script needs gnu/wget (busybox wget doesn't handle ssl) and tsu packages.
 #pkg install wget tsu
